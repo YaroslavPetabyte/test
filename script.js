@@ -1,3 +1,12 @@
 console.log("g");
 console.log("g");
 alert("Help");
+alert("Help");
+alert("Help");
+alert("Help");
+alert("Help");
+alert("Help");
+alert("Help");
+alert("Help");
+alert("Help");
+alert("Help");
