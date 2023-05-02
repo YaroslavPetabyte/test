@@ -1,2 +1,3 @@
 console.log("g");
-alert("Help")
+console.log("g");
+alert("Help");
