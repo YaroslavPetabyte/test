@@ -5,6 +5,5 @@ alert("Help");
 alert("Help");
 alert("Help");
 alert("Help");
-alert("dfds");
 alert("df");
 alert("Hedflp");
